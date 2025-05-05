@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 **Log on to codeastro.com for more projects!**
 
 **Developed By Ankit Neupane**
+=======
+>>>>>>> 02e406c020018af9748849e4d09258834b77a542
 
 **Instructions**
 - Install the Requirements: pip install -r requirements.txt
