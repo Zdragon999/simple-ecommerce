@@ -1,8 +1,7 @@
 """
 
 Developed By : Ankit Neupane
-facebook : fb.com/sumit.luv
-Youtube :youtube.com/lazycoders
+
 
 
 """
